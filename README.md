@@ -1,5 +1,21 @@
 # Feedbacks Devoxx 2021
 
+## Content
+
+- Design de persuasion : De la séduction à l'engagement by Estelle Landry
+- Microservices réactifs avec Quarkus by Clement ESCOFFIER & Stéphane ÉPARDAUD
+- Profiling et monitoring avec le JDK by Jean-Michel DOUDOUX
+- Dockerfile - Les bonnes pratiques by Guillaume LOURS & Jérémie DROUET
+- Istio, le meilleur ami de votre cluster K8S ❤️ by Kevin DAVIN
+- Les Méthodes Synthétiques Rêvent-elles à des Switch Expressions Électriques ? by José PAUMARD & Remi FORAX
+- Choreography vs Orchestration in serverless microservices by Guillaume LAFORGE
+- Sécuriser ses applications Quarkus by Sebastien BLANC
+- Tips pour combattre le syndrome de l'imposteur by Auélie VACHE
+- Migrer une « vraie application du monde réel » vers Quarkus. Comment ? Mais surtout pourquoi ? by Clement ESCOFFIER
+- Lis mon code, ou pourquoi c’est important d’écrire du code lisible by Diana ORTEGA
+- REST next level :  Ecrire des APIs web orientées métier by Julien TOPÇU
+- OpenAPI Generator : 4000 étoiles sur GitHub et des spaghettis by Jérémie BRESSON
+
 ## 1 How to Install
 
 ### 1.1 With Docker
