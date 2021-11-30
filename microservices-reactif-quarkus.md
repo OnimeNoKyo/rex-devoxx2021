@@ -48,5 +48,5 @@
     - la migration (imperative >> reactive) est possible
     - build Native n'est pas toujours une solution
 
-[talk-description]: (https://cfp.devoxx.fr/2021/talk/JSM-3414/Microservices_reactifs_avec_Quarkus.html)
-[talk-video]: (https://youtu.be/EKOMi0u4Q2A)
+[talk-description]: https://cfp.devoxx.fr/2021/talk/JSM-3414/Microservices_reactifs_avec_Quarkus.html
+[talk-video]: https://youtu.be/EKOMi0u4Q2A

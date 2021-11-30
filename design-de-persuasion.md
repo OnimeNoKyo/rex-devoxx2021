@@ -46,5 +46,5 @@
 
 - fine frontière entre la facilitation et la manipulation
 
-[talk-description]: (https://cfp.devoxx.fr/2021/talk/DLZ-7236/Design_de_persuasion_:_De_la_seduction_a_l'engagement_.html)
-[talk-video]: (https://cfp.devoxx.fr/2021/talk/DLZ-7236/Design_de_persuasion_:_De_la_seduction_a_l'engagement_.html)
+[talk-description]: https://cfp.devoxx.fr/2021/talk/DLZ-7236/Design_de_persuasion_:_De_la_seduction_a_l'engagement_.html
+[talk-video]: https://cfp.devoxx.fr/2021/talk/DLZ-7236/Design_de_persuasion_:_De_la_seduction_a_l'engagement_.html
