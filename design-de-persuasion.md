@@ -36,7 +36,7 @@
   - Obstruction
   - Action forcée (Forced Action)
 
-## Ce que j’en retiens
+## Ce que nous retenons
 
 - une bonne UX doit générer de l'engagement
   - rendre l'utilisabilité du produit plus "facile"

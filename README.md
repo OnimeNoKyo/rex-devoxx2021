@@ -3,7 +3,7 @@
 ## Content
 
 - [Design de persuasion : De la séduction à l'engagement by Estelle Landry](./design-de-persuasion.md)
-- Microservices réactifs avec Quarkus by Clement ESCOFFIER & Stéphane ÉPARDAUD
+- [Microservices réactifs avec Quarkus by Clement ESCOFFIER & Stéphane ÉPARDAUD](./microservices-reactif-quarkus.md)
 - Profiling et monitoring avec le JDK by Jean-Michel DOUDOUX
 - Dockerfile - Les bonnes pratiques by Guillaume LOURS & Jérémie DROUET
 - Istio, le meilleur ami de votre cluster K8S ❤️ by Kevin DAVIN
