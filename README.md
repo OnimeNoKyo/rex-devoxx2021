@@ -6,7 +6,7 @@
 - [Microservices réactifs avec Quarkus by Clement ESCOFFIER & Stéphane ÉPARDAUD](./microservices-reactif-quarkus.md)
 - [Profiling et monitoring avec le JDK by Jean-Michel DOUDOUX](./profiling-monitoring-jdk.md)
 - Dockerfile - Les bonnes pratiques by Guillaume LOURS & Jérémie DROUET
-- Istio, le meilleur ami de votre cluster K8S ❤️ by Kevin DAVIN
+- [Istio, le meilleur ami de votre cluster K8S ❤️ by Kevin DAVIN](istio-ami-cluster-k8s.md)
 - Les Méthodes Synthétiques Rêvent-elles à des Switch Expressions Électriques ? by José PAUMARD & Remi FORAX
 - Choreography vs Orchestration in serverless microservices by Guillaume LAFORGE
 - Sécuriser ses applications Quarkus by Sebastien BLANC
