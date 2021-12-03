@@ -10,7 +10,7 @@
 - Les Méthodes Synthétiques Rêvent-elles à des Switch Expressions Électriques ? by José PAUMARD & Remi FORAX
 - Choreography vs Orchestration in serverless microservices by Guillaume LAFORGE
 - [Sécuriser ses applications Quarkus by Sebastien BLANC](securiser-apps-quarkus.md)
-- Tips pour combattre le syndrome de l'imposteur by Auélie VACHE
+- [Tips pour combattre le syndrome de l'imposteur by Auélie VACHE](./syndrome-imposteur.md)
 - Migrer une « vraie application du monde réel » vers Quarkus. Comment ? Mais surtout pourquoi ? by Clement ESCOFFIER
 - Lis mon code, ou pourquoi c’est important d’écrire du code lisible by Diana ORTEGA
 - REST next level :  Ecrire des APIs web orientées métier by Julien TOPÇU
