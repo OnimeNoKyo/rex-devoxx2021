@@ -16,4 +16,3 @@ if [[ -d "reveal.js" ]];then
     ln -s app/index.html index.html
 fi
 npm start
-cd ..
