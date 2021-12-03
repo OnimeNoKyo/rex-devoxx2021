@@ -20,5 +20,3 @@ if exist reveal.js\ (
     COPY /Y app\index.html index.html
 
 )
-npm start
-cd ..

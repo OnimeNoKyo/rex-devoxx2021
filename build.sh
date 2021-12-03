@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 # -*- coding: utf-8 -*-
 
-HTTP_PROXY = $1
+HTTP_PROXY=$1
 
 if [[ ! -d "reveal.js" ]]; then
     git clone https://github.com/hakimel/reveal.js.git --config "http.proxy=${HTTP_PROXY}"
@@ -15,4 +15,3 @@ if [[ -d "reveal.js" ]];then
     fi
     ln -s app/index.html index.html
 fi
-npm start
