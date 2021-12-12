@@ -1,0 +1,11 @@
+version: "3.3"
+services:
+  app:
+    image: rexdevoxx2021:latest
+    ports:
+      - 8000:8000
+    command: "npm start"
+    working_dir: /reveal.js
+    network_mode: "host"
+    volumes:
+      - ./app/:/reveal.js/app:ro
