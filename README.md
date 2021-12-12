@@ -13,7 +13,7 @@
 - [Tips pour combattre le syndrome de l'imposteur by Auélie VACHE](./syndrome-imposteur.md)
 - Migrer une « vraie application du monde réel » vers Quarkus. Comment ? Mais surtout pourquoi ? by Clement ESCOFFIER
 - Lis mon code, ou pourquoi c’est important d’écrire du code lisible by Diana ORTEGA
-- REST next level :  Ecrire des APIs web orientées métier by Julien TOPÇU
+- [REST next level :  Ecrire des APIs web orientées métier by Julien TOPÇU](./rest-next-level.md)
 - OpenAPI Generator : 4000 étoiles sur GitHub et des spaghettis by Jérémie BRESSON
 
 ## 1 How to Install
