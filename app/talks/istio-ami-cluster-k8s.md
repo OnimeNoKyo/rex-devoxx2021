@@ -15,41 +15,71 @@
 
 --
 
-- Istio
-  - OpenSource (IBM, Google, Lyft)
-  - simplifier la vie Devs et des Ops
-  - projet jeune
-  - Architecture (service mesh)  
-    ![architecture-1](assets/istio-ami-cluster-k8s-2.png)
-    ![architecture-2](assets/istio-ami-cluster-k8s-7.png)
-  - Data Plane  
-    Gestion de la communication via Proxy  
-    ![data-plane-1](assets/istio-ami-cluster-k8s-3.png)
-    ![data-plane-2](assets/istio-ami-cluster-k8s-4.png)
-  - Control Plane  
-    "base de donnée" qui contient les règles de pilotage du trafic  
-    ![control-plane-1](assets/istio-ami-cluster-k8s-5.png)
-    ![control-plane-2](assets/istio-ami-cluster-k8s-6.png)
+### Istio
+- OpenSource (IBM, Google, Lyft)
+- simplifier la vie Devs et des Ops
+- projet jeune
 
-- Observability
-  - Jaeger - debug network
-  - Kiali - vision des workloads en provenance des pods
-  - Grafana
-- Connect
-  - virtual service >> manière dont sort la requête http (routage out)
-  - destination rule >> manière dont entre une requete http (routage in)
-  - service entry >> mock des services externe ?
-  - gateway
-- Control
-  - traffic mirroring >> testing in production :s
-    - fire & forget
-    - attention si insert dans DB  
-   ![traffic-mirroring](assets/istio-ami-cluster-k8s-8.png)
-  - canary deployment >> deployer pour 1/n users
-    - plus de fire forget  
-   ![canary-deployment](assets/istio-ami-cluster-k8s-9.png)
-  - traffic splitting
-- Security
+--
+
+### Architecture (service mesh)
+
+  ![architecture-1](app/talks/assets/istio-ami-cluster-k8s-2.png) <!-- .element: width="450" height="450" -->
+  ![architecture-2](app/talks/assets/istio-ami-cluster-k8s-7.png) <!-- .element: width="450" height="450" -->
+
+--
+
+## Data Plane
+
+Gestion de la communication via Proxy  
+  ![data-plane-1](app/talks/assets/istio-ami-cluster-k8s-3.png) <!-- .element: width="450" height="450" -->
+  ![data-plane-2](app/talks/assets/istio-ami-cluster-k8s-4.png) <!-- .element: width="450" height="450" -->
+
+--
+
+## Control Plane
+
+"Base de donnée" qui contient les règles de pilotage du trafic  
+  ![control-plane-1](app/talks/assets/istio-ami-cluster-k8s-5.png) <!-- .element: width="450" height="450" -->
+  ![control-plane-2](app/talks/assets/istio-ami-cluster-k8s-6.png) <!-- .element: width="450" height="450" -->
+
+--
+
+## Observability
+
+- Jaeger >> debug network
+- Kiali >> vision des workloads en provenance des pods
+- Grafana
+
+--
+
+## Connect
+
+- virtual service >> manière dont sort la requête http (routage out)
+- destination rule >> manière dont entre une requete http (routage in)
+- service entry >> mock des services externe ?
+- gateway
+
+--
+
+## Control
+
+- traffic mirroring >> testing in production :s
+  - fire & forget
+  - attention si insert dans DB  
+ ![traffic-mirroring](app/talks/assets/istio-ami-cluster-k8s-8.png)
+
+--
+
+- canary deployment >> deployer pour 1/n users
+  - plus de fire forget  
+ ![canary-deployment](app/talks/assets/istio-ami-cluster-k8s-9.png)
+
+--
+
+- traffic splitting
+
+--
 
 ## Ce que nous retenons
 
