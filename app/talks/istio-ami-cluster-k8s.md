@@ -4,7 +4,7 @@
 
 #### Tag(s): Kubernetes | Google Cloud Platform | Cloud Ecosystems
 
-#### Links [description](https://cfp.devoxx.fr/2021/talk/TAB-3486/Istio,_le_meilleur_ami_de_votre_cluster_K8S_%E2%9D%A4%EF%B8%8F.html) | [video](https://cfp.devoxx.fr/2021/talk/DLZ-7236/Design_de_persuasion_:_De_la_seduction_a_l'engagement_.html)
+#### Links [description](https://cfp.devoxx.fr/2021/talk/TAB-3486/Istio,_le_meilleur_ami_de_votre_cluster_K8S_%E2%9D%A4%EF%B8%8F.html) | [video](https://youtu.be/03m9KsI7EtI)
 
 --
 
@@ -74,9 +74,6 @@ Gestion de la communication via Proxy
 - canary deployment >> deployer pour 1/n users
   - plus de fire forget  
  ![canary-deployment](app/talks/assets/istio-ami-cluster-k8s-9.png)
-
---
-
 - traffic splitting
 
 --
