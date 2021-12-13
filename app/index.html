@@ -18,18 +18,7 @@
         <div class="slides">
             
             <section data-markdown="/app/intro.md" data-separator="^\n---\n$" data-separator-vertical="^\n--\n$"></section>
-            <!-- Agilité, Méthodologie & Tests -->
-            <section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$">
-                <script type="text/template">
-                    ## Agilité, Méthodologie & Tests
-
-                    ![agility-ban](https://cfp.devoxx.fr/assets/dvfr2015/images/track-icons/method.png)
-                    - #### Design de persuasion: De la séduction à l'engagement by Estelle Landry
-                    - #### Tips pour combattre le syndrome de l'imposteur by Auélie VACHE
-                </script>
-            </section>
-            <section data-markdown="/app/talks/design-de-persuasion.md" data-separator="^\n---\n$" data-separator-vertical="^\n--\n$"></section>
-            <section data-markdown="/app/talks/syndrome-imposteur.md" data-separator="^\n---\n$" data-separator-vertical="^\n--\n$"></section>
+            
             <!-- Cloud, Containers et Infrastructure, DevOps -->
             <section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$">
                 <script type="text/template">
@@ -39,7 +28,9 @@
                 </script>
             </section>
             <section data-markdown="/app/talks/istio-ami-cluster-k8s.md" data-separator="^\n---\n$" data-separator-vertical="^\n--\n$"></section>
+            <section data-background="https://media.giphy.com/media/hG2Y1497iDN53fZBC3/giphy.gif"></section>
             <section data-markdown="/app/talks/podman.md" data-separator="^\n---\n$" data-separator-vertical="^\n--\n$"></section>
+            <section data-background="https://media.giphy.com/media/xoV4JZ3cBaSGngdxxl/giphy.gif"></section>
             <!-- JAVA & JVM -->
             <section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$">
                 <script type="text/template">
@@ -52,6 +43,8 @@
             <section data-markdown="/app/talks/microservices-reactif-quarkus.md" data-separator="^\n---\n$" data-separator-vertical="^\n--\n$"></section>
             <section data-markdown="/app/talks/profiling-monitoring-jdk.md" data-separator="^\n---\n$" data-separator-vertical="^\n--\n$"></section>
             <section data-markdown="/app/talks/graalvm.md" data-separator="^\n---\n$" data-separator-vertical="^\n--\n$"></section>
+            <section data-background="http://i.giphy.com/90F8aUepslB84.gif"></section>
+            
             <!-- Architecture, Performance et Securité -->
             <section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$">
                 <script type="text/template">
@@ -61,74 +54,29 @@
                 </script>
             </section>
             <section data-markdown="/app/talks/rest-next-level.md" data-separator="^\n---\n$" data-separator-vertical="^\n--\n$"></section>
+            <section data-background="https://media.giphy.com/media/57ZvMMkuBIVMlU88Yh/giphy.gif"></section>
             <section data-markdown="/app/talks/securiser-apps-quarkus.md" data-separator="^\n---\n$" data-separator-vertical="^\n--\n$"></section>
             <section data-markdown="/app/talks/apache-pulsar-101.md" data-separator="^\n---\n$" data-separator-vertical="^\n--\n$"></section>
-            <!-- Slides are separated by regexp matching newline + three dashes + newline, vertical slides identical but two dashes -->
+            
+            <!-- Agilité, Méthodologie & Tests -->
             <section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$">
                 <script type="text/template">
-                    ## Demo 2
-                    Slide 1.1
-                    
-                    --
-                    
-                    ## Demo 2
-                    Slide 1.2
-                    
-                    ---
-                    
-                    ## Demo 2
-                    Slide 2
+                    ## Agilité, Méthodologie & Tests
+
+                    ![agility-ban](https://cfp.devoxx.fr/assets/dvfr2015/images/track-icons/method.png)
+                    - #### Design de persuasion: De la séduction à l'engagement by Estelle Landry
+                    - #### Tips pour combattre le syndrome de l'imposteur by Auélie VACHE
                 </script>
             </section>
-            
-            <!-- Slide attributes -->
-            <section data-markdown>
+            <section data-background=https://media.giphy.com/media/MZocLC5dJprPTcrm65/giphy.gif></section>
+            <section data-markdown="/app/talks/design-de-persuasion.md" data-separator="^\n---\n$" data-separator-vertical="^\n--\n$"></section>
+            <section data-markdown="/app/talks/syndrome-imposteur.md" data-separator="^\n---\n$" data-separator-vertical="^\n--\n$"></section>
+            <section data-background="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif"></section>
+            <section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$">
                 <script type="text/template">
-                    <!-- .slide: data-background="#000000" -->
-                    ## Slide attributes
+                    ## Merci
                 </script>
             </section>
-            
-            <!-- Element attributes -->
-            <section data-markdown>
-                <script type="text/template">
-                    ## Element attributes
-                    - Item 1 <!-- .element: class="fragment" data-fragment-index="2" -->
-                    - Item 2 <!-- .element: class="fragment" data-fragment-index="1" -->
-                </script>
-            </section>
-            
-            <!-- Code -->
-            <section data-markdown>
-                <script type="text/template">
-                    ```php [1|3-5]
-                    public function foo()
-                    {
-                        $foo = array(
-                        'bar' => 'bar'
-                        )
-                    }
-                    ```
-                </script>
-            </section>
-            
-            <!-- Images -->
-            <section data-markdown>
-                <script type="text/template">
-                    ![Sample image](https://s3.amazonaws.com/static.slid.es/logo/v2/slides-symbol-512x512.png)
-                </script>
-            </section>
-            
-            <!-- Math -->
-            <section data-markdown>
-                ## The Lorenz Equations
-                `\[\begin{aligned}
-                \dot{x} &amp; = \sigma(y-x) \\
-                \dot{y} &amp; = \rho x - y - xz \\
-                \dot{z} &amp; = -\beta z + xy
-                \end{aligned} \]`
-            </section>
-            
         </div>
     </div>
     

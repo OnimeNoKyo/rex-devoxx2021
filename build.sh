@@ -10,8 +10,8 @@ if [[ ! -d "reveal.js" ]]; then
 fi
 if [[ -d "reveal.js" ]];then
     cd reveal.js
-    if [[ ! -d "app" ]]; then
-        ln -s ../app/ app
-    fi
+    rm -R app
+    ln -s ../app/ app
+    rm index.html
     ln -s app/index.html index.html
 fi

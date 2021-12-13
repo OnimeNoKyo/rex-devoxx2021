@@ -12,7 +12,7 @@
 
 --
 
-- 1 Community vs Entreprise  <!-- .element: class="fragment" data-fragment-index="0" -->  
+- 1 Community vs Entreprise  
 - 2 Temps d'exécution java  <!-- .element: class="fragment" data-fragment-index="1" -->  
 - 3 Native image <!-- .element: class="fragment" data-fragment-index="2" -->  
 - 4 Spring-boot app native  <!-- .element: class="fragment" data-fragment-index="3" -->  

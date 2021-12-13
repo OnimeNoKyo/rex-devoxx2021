@@ -4,7 +4,10 @@
 
 --
 
-### Agilité, Méthodologie & Tests <!-- .element: class="fragment" data-fragment-index="1" -->
-### Cloud, Containers et Infrastructure, DevOps <!-- .element: class="fragment" data-fragment-index="2" -->
-### Java, JVM <!-- .element: class="fragment" data-fragment-index="3" -->
-### Architecture, Performance et Securité <!-- .element: class="fragment" data-fragment-index="4" -->
+### Cloud, Containers et Infrastructure, DevOps
+
+### Java, JVM <!-- .element: class="fragment" data-fragment-index="1" -->
+
+### Architecture, Performance et Securité <!-- .element: class="fragment" data-fragment-index="2" -->
+
+### Agilité, Méthodologie & Tests <!-- .element: class="fragment" data-fragment-index="3" -->
