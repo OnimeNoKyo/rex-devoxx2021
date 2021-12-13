@@ -1,22 +1,37 @@
-# Sécuriser ses applications Quarkus by Sebastien BLANC
+## Sécuriser ses applications Quarkus
 
-## Track(s): Architecture, Performance et Securité
+### by Sebastien BLANC
 
-## Tag(s): OpenID Connect | KeyCloak | security best practices
+#### Tag(s): OpenID Connect | KeyCloak | security best practices
 
-## Links [description][talk-description] | [video][talk-video]
+#### Links [description](app/talks/assets/https://cfp.devoxx.fr/2021/talk/YAI-2660/Securiser_ses_applications_Quarkus.html) | [video](app/talks/assets/https://youtu.be/GXd39tCrNI8)
 
-![intro](securiser-apps-quarkus-1.png)
-![context](securiser-apps-quarkus-2.png)
+![intro](app/talks/assets/securiser-apps-quarkus-1.png) <!-- .element: height="500" width="800" -->
 
-- Security Extension
-  - Annotation classique (@RolesAllowed)
-  - Inject SecurityIdentity
-  ![security](securiser-apps-quarkus-3.png)
-- LiveCoding (with Keycloak)
-  - Quarkus plugin with VSCode
-  - devUI
-  ![devUI](securiser-apps-quarkus-4.png)
+--
+
+## Identity with Quarkus
+
+![context](app/talks/assets/securiser-apps-quarkus-2.png)
+
+--
+
+## Security Extension
+
+- Annotation classique (@RolesAllowed)
+- Inject SecurityIdentity
+![security](app/talks/assets/securiser-apps-quarkus-3.png)
+
+--
+
+## LiveCoding (with Keycloak)
+
+- Quarkus plugin with VSCode
+- devUI
+
+![devUI](app/talks/assets/securiser-apps-quarkus-4.png)
+
+--
 
 ## Ce que nous retenons
 
