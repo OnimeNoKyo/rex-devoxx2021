@@ -4,7 +4,7 @@
 
 #### Tag(s): OpenID Connect | KeyCloak | security best practices
 
-#### Links [description](app/talks/assets/https://cfp.devoxx.fr/2021/talk/YAI-2660/Securiser_ses_applications_Quarkus.html) | [video](app/talks/assets/https://youtu.be/GXd39tCrNI8)
+#### Links [description](https://cfp.devoxx.fr/2021/talk/YAI-2660/Securiser_ses_applications_Quarkus.html) | [video](https://youtu.be/GXd39tCrNI8)
 
 ![intro](app/talks/assets/securiser-apps-quarkus-1.png) <!-- .element: height="500" width="800" -->
 
