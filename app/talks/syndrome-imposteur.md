@@ -1,22 +1,29 @@
-# Tips pour combattre le syndrome de l'imposteur by Aurélie VACHE
+## Tips pour combattre le syndrome de l'imposteur
 
-## Track(s): Agilité, Méthodologie & Tests
+### by Aurélie VACHE
 
-## Tag(s): communauté | partage | legitimé
+#### Tag(s): communauté | partage | legitimé
 
-## Links [description][talk-description] | [video][talk-video]
+#### Links [description](https://cfp.devoxx.fr/2021/talk/RVC-7759/Tips_pour_combattre_le_syndrome_de_l'imposteur.html) | [video](https://youtu.be/MGt-DpYf30g)
 
-![intro](./syndrome-imposteur-1.png)
+--
 
-- Histoire de perception
-  - très présent dans la tech
-- Tips existent
-  - Liste les accomplissements
-  - trouver pairs, communautés, roles modèles
-  - partager et contribuer
-  - chercher du feedbacks
-  - positiver
-  - reconnaitre ses faiblesses (mais peut etre approfondi)
+## Histoire de perception
+
+- très présent dans la tech
+
+--
+
+## Tips existent
+
+- Liste les accomplissements
+- trouver pairs, communautés, roles modèles
+- partager et contribuer
+- chercher du feedbacks
+- positiver
+- reconnaitre ses faiblesses (mais peut etre approfondi)
+
+--
 
 ## Ce que nous retenons
 
